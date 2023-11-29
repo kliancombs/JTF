@@ -1,0 +1,5 @@
+# Ignore HTML files
+*.html linguist-generated=true
+
+# Treat Java files as Java
+*.java linguist-language=Java
